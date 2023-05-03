@@ -1,6 +1,8 @@
 # Zenn CLI
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+- [zenn.dev/moxak](https://zenn.dev/moxak)
+
+- [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
 - [Zenn CLIをインストールする](https://zenn.dev/zenn/articles/install-zenn-cli)
 - [Zenn CLIで記事・本を管理する方法](https://zenn.dev/zenn/articles/zenn-cli-guide)
